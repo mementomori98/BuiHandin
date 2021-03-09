@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "BuiHandin", "BuiHandin\BuiHandin.dwproj", "{D5CD61E4-438B-4953-B195-7A6707256234}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5CD61E4-438B-4953-B195-7A6707256234}.Development|Default.ActiveCfg = Development
+		{D5CD61E4-438B-4953-B195-7A6707256234}.Development|Default.Build.0 = Development
+		{D5CD61E4-438B-4953-B195-7A6707256234}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B9C4223-9E9C-4485-838B-C93277C81E90}
+	EndGlobalSection
+EndGlobal
