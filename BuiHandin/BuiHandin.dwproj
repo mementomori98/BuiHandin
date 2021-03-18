@@ -8,12 +8,12 @@
   </Database>
   <Cubes>
     <ProjectItem>
-      <Name>Wide World Importers DW.cube</Name>
-      <FullPath>Wide World Importers DW.cube</FullPath>
+      <Name>Wide World Importers DW 1.cube</Name>
+      <FullPath>Wide World Importers DW 1.cube</FullPath>
       <Dependencies>
         <ProjectItem>
-          <Name>Wide World Importers DW.partitions</Name>
-          <FullPath>Wide World Importers DW.partitions</FullPath>
+          <Name>Wide World Importers DW 1.partitions</Name>
+          <FullPath>Wide World Importers DW 1.partitions</FullPath>
         </ProjectItem>
       </Dependencies>
     </ProjectItem>
